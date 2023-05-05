@@ -14,7 +14,7 @@ Install the following packages using cmd.
 3. ```pip install shapely```
 
 ## Modify patch.py of descartes
-Navigate to this path "C:\Users\OFFICE\AppData\Local\Programs\Python\Python310\Lib\site-packages\descartes"
+Navigate to this path "C:\Users\yourusername\AppData\Local\Programs\Python\Python310\Lib\site-packages\descartes"
 and open the 'patch.py' file using vscode and modify line 62 ```t.exterior``` to ```t.exterior.coords```
 
 Save the file and close the window.
