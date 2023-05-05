@@ -1,7 +1,7 @@
 # area-ellipse-and-circle
 Piece of code demonstrate only the intersection of circle and ellipse.
 
-# Required Packages:
+## Required Packages:
 1. matplotlib
 2. descartes
 3. shapely
