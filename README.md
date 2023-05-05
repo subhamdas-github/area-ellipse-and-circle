@@ -1,4 +1,4 @@
-# area-ellipse-and-circle
+# Intersection point of ellipse and circle using Python
 Piece of code demonstrate only for the intersection of circle and ellipse.
 
 ## Required Packages:
