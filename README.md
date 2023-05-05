@@ -7,7 +7,7 @@ Piece of code demonstrate only the intersection of circle and ellipse.
 3. shapely
 
 ## Download of packages:
-Open cmd and type '''pip --version''' (to check pip is installed)
+Open cmd and type ```pip --version``` (to check pip is installed)
 1. '''pip install matplotlib'''
 2. pip install descartes
 3. pip install shapely
