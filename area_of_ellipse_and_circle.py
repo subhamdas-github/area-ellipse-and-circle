@@ -22,7 +22,7 @@ IMPORTANT
 
 actual ellipse equation = ((x-h)/a)**2 + ((y-k)/b)**2 - 1
 
-In that case modify the line '21' to ELLIPSE = ellipse_generator((h, k), (_vertex_a, _covertex_b), 0) 
+In that case modify the line '18' to ELLIPSE = ellipse_generator((h, k), (_vertex_a, _covertex_b), 0) 
 
 If you want to rotate the ellipse to any direction then modify the same to ELLIPSE = ellipse_generator((h, k), (_vertex_a, _covertex_b), <input_value>) 
 
@@ -46,6 +46,4 @@ _ax = plt.gca()
 _ax.set_xlim(-7, 7)
 _ax.set_ylim(0, 10)
 plt.show()
-
-
 
