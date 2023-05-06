@@ -1,6 +1,8 @@
 # Intersection area of ellipse and circle using Python
 Piece of code demonstrate only for the intersection of circle and ellipse.
 
+Download the ZIP
+
 ## Required Packages:
 1. matplotlib
 2. descartes
@@ -21,8 +23,8 @@ and open the 'patch.py' file using vscode and modify line 62 ```t.exterior``` to
 
 Save the file and close the window.
 
-## run script
-run the area_of_ellipse_and_circle.py file
+## Run script
+Debug and run the 'area_of_ellipse_and_circle.py' file.
 
 ## Output
 <img src = "img.png">
