@@ -24,7 +24,7 @@ and open the 'patch.py' file using vscode and modify line 62 ```t.exterior``` to
 Save the file and close the window.
 
 ## Run script
-Debug and run the 'area_of_ellipse_and_circle.py' file.
+Debug and run the 'area_of_intersection.py' file.
 
 ## Output
 <img src = "img.png">
