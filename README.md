@@ -23,6 +23,8 @@ Save the file and close the window.
 
 ## run script
 run the area_of_ellipse_and_circle.py file
+
+## Output
 <img src = "img.png">
 
 ## Bug? 
