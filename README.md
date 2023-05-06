@@ -8,6 +8,7 @@ Download the ZIP
 2. descartes
 3. shapely
 4. numpy
+5. scipy
 
 ## Download of packages:
 Open cmd and type ```pip --version``` (to check pip is installed)
@@ -16,6 +17,7 @@ Install the following packages using cmd.
 2. ```pip install descartes```
 3. ```pip install shapely```
 4. ```pip install numpy```
+5. ```pip install scipy```
 
 ## Modify patch.py of descartes
 Navigate to this path "C:\Users\yourusername\AppData\Local\Programs\Python\Python310\Lib\site-packages\descartes"
